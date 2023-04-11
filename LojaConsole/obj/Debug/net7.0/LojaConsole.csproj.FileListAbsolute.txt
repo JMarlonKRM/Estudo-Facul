@@ -1,0 +1,15 @@
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\bin\Debug\net7.0\LojaConsole.exe
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\bin\Debug\net7.0\LojaConsole.deps.json
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\bin\Debug\net7.0\LojaConsole.runtimeconfig.json
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\bin\Debug\net7.0\LojaConsole.dll
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\bin\Debug\net7.0\LojaConsole.pdb
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\obj\Debug\net7.0\LojaConsole.csproj.AssemblyReference.cache
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\obj\Debug\net7.0\LojaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\obj\Debug\net7.0\LojaConsole.AssemblyInfoInputs.cache
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\obj\Debug\net7.0\LojaConsole.AssemblyInfo.cs
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\obj\Debug\net7.0\LojaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\obj\Debug\net7.0\LojaConsole.dll
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\obj\Debug\net7.0\refint\LojaConsole.dll
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\obj\Debug\net7.0\LojaConsole.pdb
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\obj\Debug\net7.0\LojaConsole.genruntimeconfig.cache
+C:\Users\Liluyoud\OneDrive\Faculdades\1Sapiens\2023-1\Algoritmos e Estrutura de Dados III\Público\LojaConsole\obj\Debug\net7.0\ref\LojaConsole.dll

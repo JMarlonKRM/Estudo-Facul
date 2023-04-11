@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Descricao": "TV LCD 55",
+    "Quantidade": 10,
+    "Valor": 1999,
+    "Ativo": true
+  },
+  {
+    "Id": 2,
+    "Descricao": "Pendrive 128GB",
+    "Quantidade": 30,
+    "Valor": 61.99,
+    "Ativo": true
+  }
+]
